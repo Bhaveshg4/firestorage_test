@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "630806884551",
+    "project_id": "flutterstorage-4e2ed",
+    "storage_bucket": "flutterstorage-4e2ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630806884551:android:540a8980d2382595854ee2",
+        "android_client_info": {
+          "package_name": "com.example.women_safe_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630806884551-0osum94m4e1hmrj0mvog3dqspq316t5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4vS9ZgNhrzRWCgaPJYaDrn64iphqjQes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630806884551-0osum94m4e1hmrj0mvog3dqspq316t5f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "630806884551-86vuqca1qsnpg72uma3ed82sijifspr4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
